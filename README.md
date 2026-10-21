@@ -8,4 +8,6 @@ https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
 https://bit.ly/hacxx-iptv-sports
 4Raro
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+5TV-ESPAÑOLA
+https://www.tdtchannels.com/lists/tv.m3u8
 
