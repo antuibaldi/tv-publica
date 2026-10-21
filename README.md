@@ -6,3 +6,6 @@ https://iptv-org.github.io/iptv/index.m3u
 https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
 3-Deporte internacional
 https://bit.ly/hacxx-iptv-sports
+4Raro
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
