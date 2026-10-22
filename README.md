@@ -10,4 +10,6 @@ https://bit.ly/hacxx-iptv-sports
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 5TV-ESPAÑOLA
 https://www.tdtchannels.com/lists/tv.m3u8
+6 TV ARGENTINA
+https://ip-tv.app/Argentina
 
